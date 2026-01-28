@@ -1,0 +1,2 @@
+# Capstone-Project---Global-Sales-Performance-Profitability-Analysis
+This capstone project focuses on analyzing global sales data to uncover business insights related to revenue, profitability, customer behavior, and discount impact. This dashboard presents a high-level view of sales, profit, and overall business performance, enabling quick insights into trends, regional performance, and category contribution.
